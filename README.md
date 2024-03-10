@@ -10,7 +10,7 @@
 
 - 🔭 Another Project that refined my ML skills Analysis Project. [WhatsApp Chat Analyzer](https://whatsapp-chatanalyzerr.streamlit.app/)
 
-<img align="right" width="400" style="border-radius=40px;" src="https://camo.githubusercontent.com/74b1705aa2dafc4ce3d68a181769b79d28eb347c4aa8946e2997a2908a29281f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966"> 
+<img align="right" width="400" src="https://i.pinimg.com/originals/09/fd/23/09fd231db85b2c77924551d921f6caa6.png"> 
 
 - 🔭 I've also worked on Regression Problems from which one of the Project is Prediction Model [Car Price Prediction](https://skzaid091-car-price-prediction-model-app-ksatyo.streamlit.app/)
 
