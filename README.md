@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaid Shaikh</h1>
 <h3 align="center">A passionate Data Science Enthusiast and Results-Driven Individual with a knack for turning Data into actionable insights.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=skzaid091&label=Profile%20views&color=0e75b6&style=flat" alt="skzaid091" /> </p>
-
 - 🔭 Recently I worked on Content Based Filtering Project named as "Recommendation System". [Content Based Recommendation System](https://skzaid091-movie-system-app-1mj5k6.streamlit.app/)
 
 - 🌱 I’m currently learning **Generative AI, LLMs.**
@@ -32,5 +30,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzaid091&show_icons=true&locale=en&layout=compact" alt="skzaid091" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skzaid091&show_icons=true&locale=en" alt="skzaid091" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skzaid091&" alt="skzaid091" /></p>
