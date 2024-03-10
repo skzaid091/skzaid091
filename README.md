@@ -1,7 +1,6 @@
 ![Logo](https://github.com/skzaid091/skzaid091/blob/main/linkedin_banner.jpeg)
 
-<h1 align="center">Hi 👋, I'm Zaid Shaikh</h1>
-<h3 align="center">A passionate Data Science Enthusiast and Results-Driven Individual</h3>
+<h1 align="center">Hi 👋, Data Science Enthusiast here</h1>
 
 <h1>                                      </h1>
 
