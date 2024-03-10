@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I think I'm using GitHub**
 
-<span>                                         </span>
+<h1>                                         </h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
