@@ -6,8 +6,6 @@
 
 - 🔭 Recently I worked on Content Based Filtering Project named as "Recommendation System". [Content Based Recommendation System](https://skzaid091-movie-system-app-1mj5k6.streamlit.app/)
 
-- 🌱 I’m currently learning **Generative AI, LLMs.**
-
 - 🔭 Another Project that refined my ML skills Analysis Project. [WhatsApp Chat Analyzer](https://whatsapp-chatanalyzerr.streamlit.app/)
 
 
