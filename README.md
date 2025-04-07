@@ -1,57 +1,95 @@
 ![Banner](https://github.com/skzaid091/skzaid091/blob/main/linkedin_banner.jpeg)
 
-<h1 align="center">Hi 👋, I'm Zaid — a Data Scientist Who Builds Real-Time AI Systems</h1>
+<h1 align="center">Hi 👋, I'm Zaid Shaikh</h1>
+<h3 align="center">🚀 Data Science Enthusiast | Real-Time AI Systems Developer | Machine Learning Explorer</h3>
 
 ---
 
-### 💡 About Me
+### ✨ About Me
 
-- 🎯 Passionate about solving real-world problems using **AI, Computer Vision & Machine Learning**
-- 👨‍💻 Special focus on **Real-Time Face Recognition**, **Object Detection**, and **Deep Learning**
-- 🛠️ Experienced in building **end-to-end systems** with custom UIs, model integration, and databases
-- 📚 Currently exploring **LLMs, NLP**, and advanced ML pipelines
-
----
-
-### 🚀 Projects
-
-🔹 **Advanced Attendance Management System**  
-💡 Real-Time Face Recognition | Multi-Person Tracking | Liveness Detection  
-📌 CustomTkinter UI | MongoDB | YOLOv8 | ByteTrack  
-📄 *Face-based attendance system with smart user management & anti-spoofing*
-
-🔹 **Dynamic Traffic Management System** *(In Progress)*  
-💡 Real-time Traffic Monitoring | Lane Congestion Detection | Ambulance Voice Classification  
-📌 YOLOv8 | Audio Classification | Multi-Camera Simulation | Python
-
-🔹 [🔗 **Content-Based Movie Recommendation System**](https://skzaid091-movie-system-app-1mj5k6.streamlit.app/)  
-📄 NLP-based filtering engine for recommending similar movies  
-📌 Streamlit | Sklearn | Cosine Similarity
-
-🔹 [📊 **WhatsApp Chat Analyzer**](https://whatsapp-chatanalyzerr.streamlit.app/)  
-📄 Data visualization and statistical insights from WhatsApp chats  
-📌 Pandas | Matplotlib | Streamlit
-
-🔹 [🚗 **Car Price Prediction Model**](https://skzaid091-car-price-prediction-model-app-ksatyo.streamlit.app/)  
-📄 Regression model to predict used car prices  
-📌 Sklearn | Regression | Streamlit
+🌱 I’m deeply passionate about building **real-time, impactful AI systems** — from face recognition to traffic management.  
+💻 I work on projects that combine **Machine Learning**, **Computer Vision**, and **custom UI integrations** to solve real-world problems.  
+🔭 Currently exploring **Large Language Models (LLMs)**, **Audio Classification**, and **Edge AI**.  
+📈 I enjoy using **data storytelling** and **smart algorithms** to build scalable, production-ready systems.  
 
 ---
 
-### 🧰 Tech Stack
+### 🔥 My Best Projects
 
-**Languages:** Python, JavaScript, SQL  
-**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, OpenCV, PyTorch, TensorFlow  
-**Tools:** YOLOv8, ByteTrack, Streamlit, MongoDB, MySQL, CustomTkinter, Git, VS Code  
-**Other:** REST APIs, EDA, Deployment, Real-Time Video Processing, Audio Classification
+Here are some of my most impactful and technically exciting works:
+
+#### 🧠 Advanced Attendance Management System  
+> 🖼️ **Real-Time Face Recognition | Liveness Detection | MongoDB Integration**
+
+- Built a desktop application using `CustomTkinter` for UI
+- Integrated real-time face detection, recognition, and liveness verification
+- Used `YOLOv8` + `ByteTrack` for accurate head detection & tracking
+- MongoDB for storing student data and attendance logs
+- **Features:** Add/Update/Delete Students, User Time Tracking, Secure Login, Settings Panel  
+🔗 **Coming soon on GitHub & YouTube**
 
 ---
 
-### 📫 Let's Connect
+#### 🚦 Dynamic Traffic Management System *(Ongoing)*  
+> 🛣️ **Congestion-based Signal Handling | Ambulance Sound Detection | Lane-wise Logic**
 
-- 📧 Email: **skzaid091@gmail.com**  
-- 🔗 [LinkedIn](https://linkedin.com/in/zaidshaikh091)  
-- 📄 [Resume](https://drive.google.com/file/d/1Tj2PfaEw-xFSdUoqz_kmIWzqke1-W7x0/view?usp=sharing)
+- Four simulated video feeds running in parallel
+- Uses frame comparison with empty reference images to detect congestion
+- `YOLOv8` for vehicle detection, `Audio Classification Model` for ambulance detection
+- Temporarily prioritizes lanes when an emergency sound is detected
+- Combines **Computer Vision + Audio Processing** for urban traffic automation  
+🔗 **In Progress**
+
+---
+
+#### 🎬 [Content-Based Movie Recommendation System](https://skzaid091-movie-system-app-1mj5k6.streamlit.app/)  
+> 🧠 Recommends similar movies using NLP & cosine similarity
+
+- Clean Streamlit UI
+- TF-IDF Vectorization and Cosine Similarity
+- Simple & fast content-based engine  
+📦 Tools: `Sklearn`, `NLP`, `Streamlit`
+
+---
+
+#### 📊 [WhatsApp Chat Analyzer](https://whatsapp-chatanalyzerr.streamlit.app/)  
+> 🔍 Extracts insights from WhatsApp exports
+
+- Upload `.txt` files and get instant analysis
+- Most active person, messages/day, emoji count, etc.
+- Visualizations using `Matplotlib` and `Seaborn`  
+📦 Tools: `Pandas`, `Matplotlib`, `Seaborn`, `Streamlit`
+
+---
+
+#### 🚗 [Car Price Prediction Model](https://skzaid091-car-price-prediction-model-app-ksatyo.streamlit.app/)  
+> 🧮 Predicts prices of used cars based on input features
+
+- Trained regression models with Sklearn
+- Real-world dataset with preprocessing
+- Deployed on Streamlit  
+📦 Tools: `Linear Regression`, `Random Forest`, `Streamlit`
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+
+**Libraries & Frameworks:**  
+`NumPy`, `Pandas`, `OpenCV`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `TensorFlow`, `PyTorch`, `Streamlit`
+
+**Computer Vision & AI:**  
+`YOLOv8`, `ByteTrack`, `Face Recognition`, `Real-Time Tracking`, `Audio Classification`
+
+**Databases:**  
+`MongoDB`, `MySQL`
+
+**Tools:**  
+`VS Code`, `Git`, `GitHub`, `OBS Studio`, `Jupyter`, `CustomTkinter`
 
 ---
 
@@ -63,3 +101,15 @@
 <h1>                                      </h1>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzaid091&show_icons=true&locale=en&layout=compact" alt="skzaid091" /></p>
+
+<h1>                                      </h1>
+
+### 🤝 Let’s Connect
+
+- 📫 **Email**: skzaid091@gmail.com  
+- 💼 [**LinkedIn**](https://linkedin.com/in/zaidshaikh091)  
+- 📄 [**Resume**](https://drive.google.com/file/d/1Tj2PfaEw-xFSdUoqz_kmIWzqke1-W7x0/view?usp=sharing)
+
+---
+
+⭐ *Thank you for visiting! Let’s build something awesome together!*
