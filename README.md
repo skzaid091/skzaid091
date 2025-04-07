@@ -1,33 +1,59 @@
-![Logo](https://github.com/skzaid091/skzaid091/blob/main/linkedin_banner.jpeg)
+![Banner](https://github.com/skzaid091/skzaid091/blob/main/linkedin_banner.jpeg)
 
-<h1 align="center">Hi 👋, Data Science Enthusiast here</h1>
+<h1 align="center">Hi 👋, I'm Zaid — a Data Scientist Who Builds Real-Time AI Systems</h1>
 
-<h1>                                      </h1>
+---
 
-- 🔭 Recently I worked on Content Based Filtering Project named as "Recommendation System". [Content Based Recommendation System](https://skzaid091-movie-system-app-1mj5k6.streamlit.app/)
+### 💡 About Me
 
-- 🔭 Another Project that refined my ML skills Analysis Project. [WhatsApp Chat Analyzer](https://whatsapp-chatanalyzerr.streamlit.app/)
+- 🎯 Passionate about solving real-world problems using **AI, Computer Vision & Machine Learning**
+- 👨‍💻 Special focus on **Real-Time Face Recognition**, **Object Detection**, and **Deep Learning**
+- 🛠️ Experienced in building **end-to-end systems** with custom UIs, model integration, and databases
+- 📚 Currently exploring **LLMs, NLP**, and advanced ML pipelines
 
+---
 
+### 🚀 Projects
 
-- 🔭 I've also worked on Regression Problems from which one of the Project is Prediction Model [Car Price Prediction](https://skzaid091-car-price-prediction-model-app-ksatyo.streamlit.app/)
+🔹 **Advanced Attendance Management System**  
+💡 Real-Time Face Recognition | Multi-Person Tracking | Liveness Detection  
+📌 CustomTkinter UI | MongoDB | YOLOv8 | ByteTrack  
+📄 *Face-based attendance system with smart user management & anti-spoofing*
 
-- 👨‍💻 All of my projects are available at [coming soon..........](coming soon..........)
+🔹 **Dynamic Traffic Management System** *(In Progress)*  
+💡 Real-time Traffic Monitoring | Lane Congestion Detection | Ambulance Voice Classification  
+📌 YOLOv8 | Audio Classification | Multi-Camera Simulation | Python
 
-- 💬 Ask me about **Python, EDA, Machine Learning and Data Science.**
+🔹 [🔗 **Content-Based Movie Recommendation System**](https://skzaid091-movie-system-app-1mj5k6.streamlit.app/)  
+📄 NLP-based filtering engine for recommending similar movies  
+📌 Streamlit | Sklearn | Cosine Similarity
 
-- 📫 How to reach me **skzaid091@gmail.com**
+🔹 [📊 **WhatsApp Chat Analyzer**](https://whatsapp-chatanalyzerr.streamlit.app/)  
+📄 Data visualization and statistical insights from WhatsApp chats  
+📌 Pandas | Matplotlib | Streamlit
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Tj2PfaEw-xFSdUoqz_kmIWzqke1-W7x0/view?usp=sharing](https://drive.google.com/file/d/1Tj2PfaEw-xFSdUoqz_kmIWzqke1-W7x0/view?usp=sharing)
+🔹 [🚗 **Car Price Prediction Model**](https://skzaid091-car-price-prediction-model-app-ksatyo.streamlit.app/)  
+📄 Regression model to predict used car prices  
+📌 Sklearn | Regression | Streamlit
 
-- ⚡ Fun fact **I think I'm using GitHub**
+---
 
-<h1>                                         </h1>
+### 🧰 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zaidshaikh091" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zaidshaikh091" height="30" width="40" /></a>
-</p>
+**Languages:** Python, JavaScript, SQL  
+**Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, OpenCV, PyTorch, TensorFlow  
+**Tools:** YOLOv8, ByteTrack, Streamlit, MongoDB, MySQL, CustomTkinter, Git, VS Code  
+**Other:** REST APIs, EDA, Deployment, Real-Time Video Processing, Audio Classification
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: **skzaid091@gmail.com**  
+- 🔗 [LinkedIn](https://linkedin.com/in/zaidshaikh091)  
+- 📄 [Resume](https://drive.google.com/file/d/1Tj2PfaEw-xFSdUoqz_kmIWzqke1-W7x0/view?usp=sharing)
+
+---
 
 <h1>                                      </h1>
 
