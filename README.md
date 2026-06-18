@@ -1,18 +1,26 @@
 ![Banner](https://github.com/skzaid091/skzaid091/blob/main/linkedin_banner.jpeg)
 
 <h1 align="center">Hi 👋, I'm Zaid Shaikh</h1>
-<h3 align="center">🚀 Data Science Enthusiast | Real-Time AI Systems Developer | Machine Learning Explorer</h3>
+<h3 align="center">AI Engineer | Machine Learning Engineer | GenAI & Computer Vision Developer</h3>
 
 ---
 
 ### ✨ About Me
 
-🌱 I’m deeply passionate about building **real-time, impactful AI systems** — from face recognition to traffic management.  
-💻 I work on projects that combine **Machine Learning**, **Computer Vision**, and **custom UI integrations** to solve real-world problems.  
-🔭 Currently exploring **Large Language Models (LLMs)**, **Audio Classification**, and **Edge AI**.  
-📈 I enjoy using **data storytelling** and **smart algorithms** to build scalable, production-ready systems.  
+I build production-grade AI systems that combine Computer Vision, Large Language Models, Document Intelligence, and scalable backend engineering.
+My focus is on transforming AI research into real-world applications through robust architectures, efficient model deployment, and end-to-end product development.
 
 ---
+
+### 🚀 What I'm Working On
+
+Multimodal Document Understanding Systems
+Enterprise Retrieval-Augmented Generation (RAG)
+OCR & Intelligent Document Processing
+Large Language Model Applications
+Computer Vision & Face Recognition
+AI Infrastructure & Model Deployment
+FastAPI Microservices & Distributed Systems
 
 ### 🔥 My Best Projects
 
