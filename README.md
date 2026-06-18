@@ -34,7 +34,6 @@ A production-grade document understanding system capable of processing large PDF
 
 **Tech Stack:** Python, FastAPI, PyTorch, Transformers, OCR, Docker
 
----
 
 ### 🧠 Enterprise RAG Platform
 
@@ -51,7 +50,6 @@ An enterprise-ready Retrieval-Augmented Generation system designed for intellige
 
 **Tech Stack:** FastAPI, LLMs, Vector Databases, MongoDB, Docker
 
----
 
 ### 🤖 Mini LLM From Scratch
 
@@ -71,7 +69,6 @@ Implemented and trained a decoder-only Transformer language model from scratch t
 
 **Tech Stack:** PyTorch, Python, Deep Learning
 
----
 
 ### 🚦 Intelligent Traffic Management System
 
