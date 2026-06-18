@@ -132,7 +132,7 @@ Git • GitHub • Linux • VS Code • Jupyter Notebook
 
 📫 **Email:** [skzaid091@gmail.com](mailto:skzaid091@gmail.com)
 
-💼 **LinkedIn:** Add your LinkedIn profile link here
+💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/zaidshaikh091/)
 
 📄 **Resume:** Add your resume link here
 
