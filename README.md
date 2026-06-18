@@ -4,8 +4,6 @@
 
 I build production-grade AI systems spanning **Generative AI, Document Intelligence, Computer Vision, and Backend Engineering**. My focus is on transforming AI research into scalable, real-world applications through robust architectures, efficient model deployment, and end-to-end system design.
 
----
-
 ## 🚀 About Me
 
 * 🔭 Building Enterprise RAG and Multimodal Document Intelligence Systems
@@ -13,8 +11,6 @@ I build production-grade AI systems spanning **Generative AI, Document Intellige
 * 👁️ Developing Computer Vision solutions for real-world applications
 * ⚡ Designing scalable AI backends using FastAPI, Docker, and Microservices
 * 📚 Passionate about Deep Learning, NLP, Retrieval Systems, and MLOps
-
----
 
 ## 🔥 Featured Projects
 
