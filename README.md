@@ -1,121 +1,143 @@
-![Banner](https://github.com/skzaid091/skzaid091/blob/main/linkedin_banner.jpeg)
+# Hi 👋, I'm Zaid Shaikh
 
-<h1 align="center">Hi 👋, I'm Zaid Shaikh</h1>
-<h3 align="center">AI Engineer | Machine Learning Engineer | GenAI & Computer Vision Developer</h3>
+### AI Engineer | Machine Learning Engineer | GenAI & Computer Vision Developer
 
----
-
-### ✨ About Me
-
-I build production-grade AI systems that combine Computer Vision, Large Language Models, Document Intelligence, and scalable backend engineering.
-My focus is on transforming AI research into real-world applications through robust architectures, efficient model deployment, and end-to-end product development.
+I build production-grade AI systems spanning **Generative AI, Document Intelligence, Computer Vision, and Backend Engineering**. My focus is on transforming AI research into scalable, real-world applications through robust architectures, efficient model deployment, and end-to-end system design.
 
 ---
 
-### 🚀 What I'm Working On
+## 🚀 About Me
 
-Multimodal Document Understanding Systems
-Enterprise Retrieval-Augmented Generation (RAG)
-OCR & Intelligent Document Processing
-Large Language Model Applications
-Computer Vision & Face Recognition
-AI Infrastructure & Model Deployment
-FastAPI Microservices & Distributed Systems
-
-### 🔥 My Best Projects
-
-Here are some of my most impactful and technically exciting works:
-
-#### 🧠 Advanced Attendance Management System  
-> 🖼️ **Real-Time Face Recognition | Liveness Detection | MongoDB Integration**
-
-- Built a desktop application using `CustomTkinter` for UI
-- Integrated real-time face detection, recognition, and liveness verification
-- Used `YOLOv8` + `ByteTrack` for accurate head detection & tracking
-- MongoDB for storing student data and attendance logs
-- **Features:** Add/Update/Delete Students, User Time Tracking, Secure Login, Settings Panel  
-🔗 **Coming soon on GitHub & YouTube**
+* 🔭 Building Enterprise RAG and Multimodal Document Intelligence Systems
+* 🤖 Exploring Large Language Models, Agentic AI, and Document AI
+* 👁️ Developing Computer Vision solutions for real-world applications
+* ⚡ Designing scalable AI backends using FastAPI, Docker, and Microservices
+* 📚 Passionate about Deep Learning, NLP, Retrieval Systems, and MLOps
 
 ---
 
-#### 🚦 Dynamic Traffic Management System *(Ongoing)*  
-> 🛣️ **Congestion-based Signal Handling | Ambulance Sound Detection | Lane-wise Logic**
+## 🔥 Featured Projects
 
-- Four simulated video feeds running in parallel
-- Uses frame comparison with empty reference images to detect congestion
-- `YOLOv8` for vehicle detection, `Audio Classification Model` for ambulance detection
-- Temporarily prioritizes lanes when an emergency sound is detected
-- Combines **Computer Vision + Audio Processing** for urban traffic automation  
-🔗 **In Progress**
+### 📄 Multimodal Document Intelligence Platform
 
----
+A production-grade document understanding system capable of processing large PDFs, scanned documents, research papers, technical reports, and mixed-content documents.
 
-#### 🎬 [Content-Based Movie Recommendation System](https://skzaid091-movie-system-app-1mj5k6.streamlit.app/)  
-> 🧠 Recommends similar movies using NLP & cosine similarity
+#### Key Features
 
-- Clean Streamlit UI
-- TF-IDF Vectorization and Cosine Similarity
-- Simple & fast content-based engine  
-📦 Tools: `Sklearn`, `NLP`, `Streamlit`
+* OCR & Layout Analysis
+* Semantic Document Understanding
+* Table & Image Extraction
+* Citation Grounding & Source Visualization
+* Hybrid Search Pipeline
+* RAG-Based Question Answering
+* Multi-Format Document Support
+
+**Tech Stack:** Python, FastAPI, PyTorch, Transformers, OCR, Docker
 
 ---
 
-#### 📊 [WhatsApp Chat Analyzer](https://whatsapp-chatanalyzerr.streamlit.app/)  
-> 🔍 Extracts insights from WhatsApp exports
+### 🧠 Enterprise RAG Platform
 
-- Upload `.txt` files and get instant analysis
-- Most active person, messages/day, emoji count, etc.
-- Visualizations using `Matplotlib` and `Seaborn`  
-📦 Tools: `Pandas`, `Matplotlib`, `Seaborn`, `Streamlit`
+An enterprise-ready Retrieval-Augmented Generation system designed for intelligent knowledge discovery and document search.
 
----
+#### Key Features
 
-#### 🚗 [Car Price Prediction Model](https://skzaid091-car-price-prediction-model-app-ksatyo.streamlit.app/)  
-> 🧮 Predicts prices of used cars based on input features
+* Multi-Document Ingestion
+* Hybrid Retrieval
+* Metadata Filtering
+* Semantic Search
+* Citation-Aware Responses
+* Scalable API Architecture
 
-- Trained regression models with Sklearn
-- Real-world dataset with preprocessing
-- Deployed on Streamlit  
-📦 Tools: `Linear Regression`, `Random Forest`, `Streamlit`
+**Tech Stack:** FastAPI, LLMs, Vector Databases, MongoDB, Docker
 
 ---
 
-### 🛠️ Tech Stack
+### 🤖 Mini LLM From Scratch
 
-**Languages:**  
-![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+Implemented and trained a decoder-only Transformer language model from scratch to gain a deeper understanding of modern Large Language Models.
 
-**Libraries & Frameworks:**  
-`NumPy`, `Pandas`, `OpenCV`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `TensorFlow`, `PyTorch`, `Streamlit`
+#### Key Features
 
-**Computer Vision & AI:**  
-`YOLOv8`, `ByteTrack`, `Face Recognition`, `Real-Time Tracking`, `Audio Classification`
+* Self-Attention Mechanism
+* Multi-Head Attention
+* Positional Embeddings
+* Transformer Blocks
+* Autoregressive Text Generation
+* Custom Training Pipeline
+* Tokenization & Dataset Preparation
 
-**Databases:**  
-`MongoDB`, `MySQL`
+**Concepts Explored:** Language Modeling, Next Token Prediction, Optimization, Attention Mechanisms
 
-**Tools:**  
-`VS Code`, `Git`, `GitHub`, `OBS Studio`, `Jupyter`, `CustomTkinter`
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+**Tech Stack:** PyTorch, Python, Deep Learning
 
 ---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=skzaid091&show_icons=true&locale=en&layout=compact" alt="skzaid091" /></p>
+### 🚦 Intelligent Traffic Management System
+
+A Computer Vision and Audio AI system designed to automate traffic signal management using congestion analysis and emergency vehicle detection.
+
+#### Key Features
+
+* Vehicle Detection & Counting
+* Lane-Wise Congestion Analysis
+* Emergency Vehicle Prioritization
+* Ambulance Sound Detection
+* Real-Time Decision Engine
+
+**Tech Stack:** YOLO, OpenCV, Audio Classification, Python
 
 ---
 
-### 🤝 Let’s Connect
+## 🛠️ Tech Stack
 
-- 📫 **Email**: skzaid091@gmail.com  
-- 💼 [**LinkedIn**](https://linkedin.com/in/zaidshaikh091)  
-- 📄 [**Resume**](https://drive.google.com/file/d/1Tj2PfaEw-xFSdUoqz_kmIWzqke1-W7x0/view?usp=sharing)
+### Languages
+
+Python • SQL • JavaScript
+
+### Machine Learning & AI
+
+PyTorch • Scikit-learn • Transformers • LLM Applications • RAG • Knowledge Distillation • Deep Learning
+
+### Computer Vision
+
+YOLO • OpenCV • Object Detection • Multi-Object Tracking • OCR • Face Recognition
+
+### Backend & Infrastructure
+
+FastAPI • Flask • REST APIs • Docker • RabbitMQ • Microservices
+
+### Databases
+
+MongoDB • MySQL
+
+### Tools
+
+Git • GitHub • Linux • VS Code • Jupyter Notebook
 
 ---
 
-⭐ *Thank you for visiting! Let’s build something awesome together!*
+## 📈 Currently Exploring
+
+* Agentic AI Systems
+* Multimodal AI
+* Enterprise GenAI
+* Document Intelligence
+* Edge AI
+* AI Infrastructure & Deployment
+
+---
+
+## 🤝 Connect With Me
+
+📫 **Email:** [skzaid091@gmail.com](mailto:skzaid091@gmail.com)
+
+💼 **LinkedIn:** Add your LinkedIn profile link here
+
+📄 **Resume:** Add your resume link here
+
+---
+
+### 💡 Philosophy
+
+> Build AI systems that solve real-world problems, scale reliably, and create measurable impact.
